@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Haikal
 
-<!--
-**kalrazak/kalrazak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-stack Developer** & **AI Engineer** passionate about building **AI-powered applications**, **LLM-based solutions**, and **deep learning models**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🧠 Focused on **Large Language Models (LLMs)** and AI agent development.
+- 📈 Experienced in **stock price forecasting** with LSTM.
+- 🤖 Built **deepfake detection** & **image classification** systems.
+- 📍 Based in Malaysia 🇲🇾.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Flask, React  
+- **AI/ML:** TensorFlow, YOLOv5, LLMs  
+- **Databases:** MySQL, SQLite, MongoDB  
+
+---
+
+## 📌 Featured Projects
+
+| Project                    | Description                                       | Tech                   |
+| -------------------------- | ------------------------------------------------- | ---------------------- |
+| **LSTM Stock Forecasting** | KLSE Maybank multi-day forecasting with backtest  | Python, TensorFlow     |
+| **Deepfake Detection**     | Detects AI-generated faces & videos               | Python, OpenCV, CNN    |
+| **CML Classifier**         | Chronic Myeloid Leukemia detection (97% accuracy) | TensorFlow, Keras      |
+| **AI Chatbot**             | LLM-powered Q&A chatbot                           | LLMs, LangChain, Python |
+
+---
+
+📫 **Email:** [haikalrazakkmm@gmail.com](mailto:haikalrazakkmm@gmail.com)  
+🌐 **Portfolio:** [kalrazak.github.io](https://kalrazak.github.io)
