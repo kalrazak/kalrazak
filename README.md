@@ -35,3 +35,5 @@
 
 📫 **Email:** [haikalrazakkmm@gmail.com](mailto:haikalrazakkmm@gmail.com)  
 🌐 **Portfolio:** [kalrazak.github.io](https://kalrazak.github.io)
+
+https://drive.google.com/drive/u/1/folders/1-SL0n_P0RSsmq-nLhIRvPvKwMEhUR-2O
